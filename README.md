@@ -2,7 +2,7 @@
 This is my portfolio website, which showcases my projects, skills, and experience in web development. The website is built using React.js and features a modern and professional design.
 
 ### Demo
-https://nikhilshekhawat.netlify.app/ 
+https://vijaypalsinghpanwar.netlify.app/ 
 
 ## ⭐️⭐️⭐️ Features
 Responsive design for seamless experience across all devices
@@ -22,7 +22,7 @@ react-intersection-observer library
 Clone the repository to your local machine:
 bash
 Copy code
-git clone https://github.com/nikhil-223/myPortfolio.git
+git clone https://github.com/Vijaypal2000/my-Portfolio.git
 Install dependencies:
 Copy code
 npm install
