@@ -27,15 +27,6 @@ const Projects = () => {
 			github: "https://github.com/Vijaypal2000/my-Portfolio",
 			projectURL: "https://vijaypalsinghpanwar.netlify.app/",
 		},
-		{
-			projectName: "Portfolio",
-			aboutProject: "My personal portfolio website",
-			description: "",
-			imgURL: portfolio,
-			github: "https://github.com/Vijaypal2000/my-Portfolio",
-			projectURL: "https://vijaypalsinghpanwar.netlify.app/",
-		},
-		
 		
 		{
 			projectName: "My Spotify",
