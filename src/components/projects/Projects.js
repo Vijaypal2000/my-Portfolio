@@ -1,11 +1,7 @@
 import React from "react";
 import "./Projects.css";
 import crypto from "../../images/crypto.jpg";
-// import Noted from "../../images/Noted.png";
 import portfolio from "../../images/Portfolio.png";
-// import inotepad from "../../images/inotepad.png";
-// import chatApp from "../../images/chatApp.png";
-// import cssChallenges from "../../images/cssChallenges.png";
 import mySpotify from "../../images/myspotify.png";
 import textUtils from "../../images/textutils.png";
 import toDo from "../../images/todo.png";
@@ -19,41 +15,19 @@ const Projects = () => {
 			aboutProject: "an app to show real time cryptocurrency data ",
 			description: "",
 			imgURL: crypto,
-			github: "https://github.com/nikhil-223/cryptocurrency-project",
-			projectURL: "https://crypto-currency-board.netlify.app",
+			github: "https://github.com/Vijaypal2000/crypto-currency-project",
+			projectURL: "https://cryptocurrency-board.netlify.app/",
 		},
-		// {
-		// 	projectName: "Talkr",
-		// 	aboutProject: "a chatting app",
-		// 	description: "In progress",
-		// 	imgURL: chatApp,
-		// 	github: "https://github.com/nikhil-223/chatting-app",
-		// 	projectURL: "https://chatttingapp.netlify.app",
-		// },
-		// {
-		// 	projectName: "Inotepad",
-		// 	aboutProject: "a note making app",
-		// 	description: "In progress",
-		// 	imgURL: inotepad,
-		// 	github: "https://github.com/nikhil-223/inotepad",
-		// 	projectURL: "https://inotepad.netlify.app",
-		// },
-		// {
-		// 	projectName: "Noted",
-		// 	aboutProject: "a note making app created using Next.js",
-		// 	description: "",
-		// 	imgURL: Noted,
-		// 	github: "https://github.com/nikhil-223/noted",
-		// 	projectURL: "https://tobenoted.vercel.app",
-		// },
+		
 		{
 			projectName: "Portfolio",
 			aboutProject: "My personal portfolio website",
 			description: "",
 			imgURL: portfolio,
-			github: "https://github.com/nikhil-223/myPortfolio",
-			projectURL: "https://nikhilshekhawat.netlify.app",
+			github: "https://github.com/Vijaypal2000/my-Portfolio",
+			projectURL: "https://vijaypalsinghpanwar.netlify.app/",
 		},
+		
 		
 		{
 			projectName: "My Spotify",
@@ -84,8 +58,8 @@ const Projects = () => {
 			aboutProject: "an alma better capstone project",
 			description: "",
 			imgURL: BookMyShow,
-			github: "https://github.com/nikhil-223/bookmyshow-project-server",
-			projectURL: "https://bookmyshow-project-client.vercel.app",
+			github: "https://github.com/Vijaypal2000/bookmyshow-project",
+			projectURL: "https://bookmyshow-project.netlify.app/",
 		},
 	];
 
