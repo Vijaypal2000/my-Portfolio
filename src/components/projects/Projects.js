@@ -6,6 +6,7 @@ import mySpotify from "../../images/myspotify.png";
 import textUtils from "../../images/textutils.png";
 import toDo from "../../images/todo.png";
 import BookMyShow from "../../images/bookmyshow.png";
+import INoteBook from "../../images/inotebook.png";
 import Project from "./Project";
 
 const Projects = () => {
@@ -18,6 +19,14 @@ const Projects = () => {
 			github: "https://github.com/Vijaypal2000/crypto-currency-project",
 			projectURL: "https://cryptocurrency-board.netlify.app/",
 		},
+		{
+			projectName: "Movie booking backend project",
+			aboutProject: "an almabetter capstone project",
+			description: "",
+			imgURL: BookMyShow,
+			github: "https://github.com/Vijaypal2000/bookmyshow-project",
+			projectURL: "https://bookmyshow-project.netlify.app/",
+		},
 		
 		{
 			projectName: "Portfolio",
@@ -27,6 +36,15 @@ const Projects = () => {
 			github: "https://github.com/Vijaypal2000/my-Portfolio",
 			projectURL: "https://vijaypalsinghpanwar.netlify.app/",
 		},
+		{
+			projectName: "INoteBook",
+			aboutProject: "A Note Makking App",
+			description: "",
+			imgURL: INoteBook,
+			github: "https://github.com/Vijaypal2000/my-Portfolio",
+			projectURL: "https://vijaypalsinghpanwar.netlify.app/",
+		},
+		
 		
 		{
 			projectName: "My Spotify",
@@ -39,7 +57,7 @@ const Projects = () => {
 		{
 			projectName: "TextUtils",
 			aboutProject: "count words,covert to uppercase,lowercase etc",
-			description: "in progress",
+			description: "",
 			imgURL: textUtils,
 			github: "https://github.com/Vijaypal2000/textutils",
 			projectURL: "https://textutils-vijaypal2000.vercel.app/",
@@ -52,14 +70,7 @@ const Projects = () => {
 			github: "https://github.com/Vijaypal2000/react-todo-app",
 			projectURL: "https://react-todo-app-vijaypal2000.vercel.app/",
 		},
-		{
-			projectName: "Movie booking backend project",
-			aboutProject: "an alma better capstone project",
-			description: "",
-			imgURL: BookMyShow,
-			github: "https://github.com/Vijaypal2000/bookmyshow-project",
-			projectURL: "https://bookmyshow-project.netlify.app/",
-		},
+		
 	];
 
 	//intersection observer
