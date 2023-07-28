@@ -24,7 +24,7 @@ const Projects = () => {
 			aboutProject: "an almabetter capstone project",
 			description: "",
 			imgURL: BookMyShow,
-			github: "https://github.com/Vijaypal2000/bookmyshow-project",
+			github: "https://github.com/Vijaypal2000/bookmyshow-project-backend",
 			projectURL: "https://bookmyshow-project.netlify.app/",
 		},
 		
@@ -41,8 +41,8 @@ const Projects = () => {
 			aboutProject: "A Note Makking App",
 			description: "",
 			imgURL: INoteBook,
-			github: "https://github.com/Vijaypal2000/my-Portfolio",
-			projectURL: "https://vijaypalsinghpanwar.netlify.app/",
+			github: "https://github.com/Vijaypal2000/inotebook",
+			projectURL: "https://inotebook-web.vercel.app/",
 		},
 		
 		
